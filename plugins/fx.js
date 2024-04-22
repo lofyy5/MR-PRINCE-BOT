@@ -76,7 +76,7 @@ let handler = async (m, { conn, args, text, usedPrefix, command }) => {
 
 handler.help = ['s']; 
 handler.tags = ['nsfw', 'prem'];
-handler.command = ['xnxxsearch', 'xnxxdl', 'xxx']; 
+handler.command = ['cccccc', 'ooooob', 'skillin ']; 
 handler.diamond = false;
 handler.premium = false;
 handler.register = true;
